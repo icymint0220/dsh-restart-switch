@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Restart Switch",
+    "description": "A sidebar-foot restart button: restart only the kernel (reload plugins and config) or the whole DSH app."
+  }
+}
