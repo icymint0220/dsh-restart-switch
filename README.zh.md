@@ -1,5 +1,8 @@
 # dsh-restart-switch
 
+[![npm version](https://img.shields.io/npm/v/dsh-restart-switch.svg)](https://www.npmjs.com/package/dsh-restart-switch)
+[![license](https://img.shields.io/npm/l/dsh-restart-switch.svg)](LICENSE)
+
 给 [DeepSeek Harness](https://github.com/deepseek-ai) 用的重启开关：输入框工具栏里一个小按钮，
 点开可以选 **重启内核** 或者 **重启 DSH**。
 

@@ -1,5 +1,8 @@
 # dsh-restart-switch
 
+[![npm version](https://img.shields.io/npm/v/dsh-restart-switch.svg)](https://www.npmjs.com/package/dsh-restart-switch)
+[![license](https://img.shields.io/npm/l/dsh-restart-switch.svg)](LICENSE)
+
 One restart switch for [DeepSeek Harness](https://github.com/deepseek-ai): a small
 button in the composer toolbar that offers **restart the kernel** or **restart the
 whole DSH app**.
