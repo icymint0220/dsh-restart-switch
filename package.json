@@ -59,5 +59,14 @@
     "reload",
     "cordis"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icymint0220/dsh-restart-switch.git"
+  },
+  "homepage": "https://github.com/icymint0220/dsh-restart-switch#readme",
+  "bugs": {
+    "url": "https://github.com/icymint0220/dsh-restart-switch/issues"
+  },
+  "author": "icymint0220",
   "license": "MIT"
 }
